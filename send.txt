@@ -1,0 +1,16 @@
+12
+Cryptography Definition
+
+Cryptography is the study of secure communications techniques that allow only the sender and intended recipient of a message to vi The term is derived from the Greek word kryptos, which means hidden
+In computer science, cryptography refers to secure information and communication techniques derived from mathematical concepts and
+a set of rule-based calculations called algorithms, to transform messages in ways that are hard to decipher. These deterministic algorithms
+are used for cryptographic key generation, digital signing, verification to protect data privacy, web browsing on the internet, and
+confidential communications such as credit card transactions and email.
+
+Cryptography techniques
+grapconcerns itself with the following four objectives:
+
+Confidentiality: the information cannot be understood by anyone for whom it was unintended
+
+Non-repudiation: the creator/sender of the information cannot deny at  12345678910 his  her intentions in the transmission the information.
+Authentication: the sender and receiver can 12345678each other's identity and the origin/ destination 15874 information.
